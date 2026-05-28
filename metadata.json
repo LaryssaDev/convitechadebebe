@@ -1,0 +1,6 @@
+{
+  "name": "Convite Especial",
+  "description": "Sistema de confirmação de presença (RSVP) e painel administrativo para o evento familiar de aniversário + chá de bebê.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
